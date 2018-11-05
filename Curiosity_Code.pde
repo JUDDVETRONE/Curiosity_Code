@@ -44,4 +44,3 @@ noStroke();
 ellipse(220, 200, 20, 30);
 
 
-save("JUDD.Avacado.Drwing.png");
